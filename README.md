@@ -1,4 +1,4 @@
-<h2>Full-Stack Developer 💻</h2>  
+<h2>Full-Stack Developer 💻 <b><a href="https://frt.dev/" target="_blank">frt.dev</a></b></h2>  
 <p>Hi! I'm Firat. I make awesome things for awesome projects!</p>
 <p>I'm a full-stack developer with almost 4 years of experience. Working with and for names such as <b><a href="https://xinerji.com.tr/" target="_blank">Xinerji Software</a></b>, <b><a href="https://www.aksigorta.com.tr/" target="_blank">Aksigorta A.Ş.</a></b> → <b><a href="https://frt.dev/cv" target="_blank">(CV)</a></b></p>
 <p>I'm comfortable with a variety of tools. I usually develop architecture with Spring Framework and Angular.</p>
