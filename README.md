@@ -12,24 +12,16 @@
     <img src="https://frt.dev/cv/icon/spring.svg" width="25" height="25" />
     <img src="https://frt.dev/cv/icon/angular.svg" width="25" height="25" />
     <img src="https://frt.dev/cv/icon/react.svg" width="25" height="25" />
-    <img src="https://frt.dev/cv/icon/go.svg" width="40" height="25" />
+    <img src="https://frt.dev/cv/icon/vue.svg" width="25" height="25" />
+    <img src="https://frt.dev/cv/icon/go.svg" width="25" height="25" />
     <img src="https://frt.dev/cv/icon/python.svg" width="25" height="25" />
     <img src="https://frt.dev/cv/icon/jhipster.svg" width="25" height="25" />
     <img src="https://frt.dev/cv/icon/typescript.svg" width="25" height="25" />
-    <img src="https://frt.dev/cv/icon/javascript.svg" width="25" height="25" />
     <img src="https://frt.dev/cv/icon/nodejs.svg" width="25" height="25" />
     <img src="https://frt.dev/cv/icon/docker.svg" width="25" height="25" />
     <img src="https://frt.dev/cv/icon/kubernets.svg" width="25" height="25" />
     <img src="https://frt.dev/cv/icon/git.svg" width="25" height="25" />
     <img src="https://frt.dev/cv/icon/html5.svg" width="25" height="25" />
+    <img src="https://frt.dev/cv/icon/javascript.svg" width="25" height="25" />
     <img src="https://frt.dev/cv/icon/css3.svg" width="25" height="25" />
 </p>
-<p>
-    <img src="https://frt.dev/cv/icon/intellij.svg" width="25" height="25" />
-    <img src="https://frt.dev/cv/icon/webstorm.svg" width="25" height="25" />
-    <img src="https://frt.dev/cv/icon/datagrip.svg" width="25" height="25" />
-    <img src="https://frt.dev/cv/icon/vscode.svg" width="25" height="25" />
-    <img src="https://frt.dev/cv/icon/filezilla.svg" width="25" height="25" />
-    <img src="https://frt.dev/cv/icon/photoshop-i.svg" width="25" height="25" />
-    <img src="https://frt.dev/cv/icon/illustrator-i.svg" width="25" height="25" />
- </p>
