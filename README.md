@@ -4,7 +4,8 @@
 <p>I'm comfortable with a variety of tools. I usually develop architecture with Spring Framework and Angular.</p>
 <p>I try to bring ideas to life by adding my own knowledge and experience as well as the tools i use. I am happy to produce innovative solutions with unique user experiences.</p>
 
-"Hi!"? <a href="mailto:hi@frt.dev">Reach out!</a></b> Take care! 
+"Hi!"? <a href="mailto:hi@frt.dev">Reach out!</a></b> Take care!<br>
+<a href="https://www.linkedin.com/in/firathamarat">https://www.linkedin.com/in/firathamarat</a>
 
 
 <p>
