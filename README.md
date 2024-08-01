@@ -35,3 +35,5 @@
      <img src="https://frt.dev/cv/icon/bolt.svg" width="25" height="25" />
      <img src="https://frt.dev/cv/icon/cpu.svg" width="25" height="25" />
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=firathamarat" alt="firathamarat" /> </p>
